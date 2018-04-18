@@ -2,6 +2,6 @@ package practiceGitHub;
 
 public class Second {
 
-	// this is the common
+	// this is the test comment.
 }
 	
